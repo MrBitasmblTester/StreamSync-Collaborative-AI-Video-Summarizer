@@ -1,0 +1,1 @@
+const transcript = await generateTranscript(videoUrl)
