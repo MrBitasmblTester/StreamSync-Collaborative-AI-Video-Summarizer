@@ -1,0 +1,1 @@
+const chapters = await generateChapters(transcript)
