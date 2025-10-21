@@ -1,0 +1,1 @@
+<VideoPage videoId={id} />
